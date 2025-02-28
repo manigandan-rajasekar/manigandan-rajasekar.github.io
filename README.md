@@ -4,6 +4,9 @@ The Jekyll Starter Kit is a simple framework for starting your own Jekyll projec
 
 Instead of always starting from a blank slate and having to look through my past work to find what I needed, or having to always strip down the default the Jekyll theme before I even start adding my own code, I decided to take all of the lessons and best practices that I learned from building my first few Jekyll sites, and distill them into a simple framework for starting my next Jekyll project. Hopefully, this may interest some of you who are looking to build your own Jekyll sites, and would like a framework to start from.
 
+[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/manigandan-rajasekar/manigandan-rajasekar.github.io)
+
+
 ## Notable features
 
 * Compatible with [Github Pages](https://pages.github.com/).
